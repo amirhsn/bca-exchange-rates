@@ -1,0 +1,24 @@
+{
+  "name": "bca-exchange-rates",
+  "version": "1.0.0",
+  "description": "API for BCA Exchange Rates",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amirhsn/bca-exchange-rates.git"
+  },
+  "author": "Amir",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amirhsn/bca-exchange-rates/issues"
+  },
+  "homepage": "https://github.com/amirhsn/bca-exchange-rates#readme",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "cheerio": "^1.0.0-rc.10",
+    "nodemon": "^2.0.9"
+  }
+}
